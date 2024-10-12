@@ -16,7 +16,12 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+❯ bundle exec exe/kibela_cli
+Commands:
+  kibela_cli get_note        # Get target note.
+  kibela_cli help [COMMAND]  # Describe available commands or one specific command
+```
 
 ## Development
 
